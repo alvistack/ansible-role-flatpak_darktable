@@ -1,4 +1,4 @@
-# Ansible Role for Darktable
+# Ansible Role for Darktable with Flatpak
 
 ## 13.6.0 - TBC
 
