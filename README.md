@@ -1,13 +1,13 @@
-# Ansible Role for Darktable
+# Ansible Role for Darktable with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-darktable/master)](https://gitlab.com/alvistack/ansible-role-darktable/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-darktable.svg)](https://github.com/alvistack/ansible-role-darktable/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-darktable.svg)](https://github.com/alvistack/ansible-role-darktable/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.darktable-blue.svg)](https://galaxy.ansible.com/alvistack/darktable)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_darktable/master)](https://gitlab.com/alvistack/ansible-role-flatpak_darktable/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_darktable.svg)](https://github.com/alvistack/ansible-role-flatpak_darktable/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_darktable.svg)](https://github.com/alvistack/ansible-role-flatpak_darktable/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_darktable-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_darktable)
 
-Ansible Role for Darktable Installation.
+Ansible Role for Darktable with Flatpak.
 
 ## Requirements
 
